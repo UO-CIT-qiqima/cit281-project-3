@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[cit281-project-3](https://uo-cit-qiqima.github.io/cit281-project-3/)
+
 You can use the [editor on GitHub](https://github.com/UO-CIT-qiqima/cit281-project-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
