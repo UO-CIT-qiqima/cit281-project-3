@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fastify": "^3.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
